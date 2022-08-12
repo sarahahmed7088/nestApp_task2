@@ -1,0 +1,12 @@
+ {
+     "users":[
+         {"id":1,"userName":"Radwa","password":"hsdfgfhsf"},
+         {"id":2,"userName":"Nada","password":"iueydfriu"}
+
+     ],
+     "tasks":[
+         {"id":1,"title":"hello","userId":1,"statusId":2},
+         {"id":2,"title":"world","userId":2,"statusId":1}
+
+     ]
+ }
